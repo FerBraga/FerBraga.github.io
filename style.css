@@ -1,0 +1,55 @@
+h1 {
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+}
+h3 {
+    font-family: Tahoma, sans-serif;
+}
+body {
+    background-color: #00B4D8;
+}
+.infopessoal {
+    font-family: Tahoma, sans-serif;
+    font-weight: 800;
+    color: #023E8A;
+}
+.habil1{
+    font-family: Tahoma,sans-serif;
+    font-size: 16px;
+}
+.habil2{
+    font-family: Tahoma, sans-serif;
+    font-size: 30px;
+}
+.habil3{
+    font-family: Tahoma, sans-serif;
+    font-size: 25px;
+}
+.habil4 {
+    font-family: Tahoma, sans-serif;
+    font-size: 20px;
+}
+h4{
+    font-family: Tahoma, sans-serif;
+    font-size: 33px;
+}
+.listahabil {
+    list-style-type:none;
+}
+div {
+    border:2px solid green;
+}
+#fotoperfil {
+    float: left;
+    height: 220px;
+    padding: 10px;
+    background-color: greenyellow;
+}
+.image-container {
+    height: 240px;
+
+}
+.description {
+    float: right;
+    right: 100px;
+}
