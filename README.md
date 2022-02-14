@@ -1,6 +1,6 @@
 ## Hey, me chamo Fernando Braga, mas pode me chamar de Fer. :)
 
-<div style="display: inline_block" align="center" weight='10px>
+<div style="display: inline_block" align="center">
   <a href="https://github.com/ferbraga">
   <img height="170em" weight='100em' src="https://github-readme-stats.vercel.app/api?username=ferbraga&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferbraga&layout=compact&langs_count=7&theme=dracula"/>
